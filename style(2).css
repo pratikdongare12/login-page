@@ -1,0 +1,27 @@
+.from p {
+    padding-bottom: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    letter-spacing: .5px;
+    color: white;
+}
+
+.container-1 {
+    padding-top: 30px;
+}
+
+.main-input {
+    font-size: 16px;
+    padding: 10px 10px 10px 5px;
+    display: block;
+    width: 185px;
+    border: none;
+    border-bottom: 1px solid #6c6c6c;
+    background: transparent;
+    color: #ffffff;
+}
+
+.main-input:focus {
+    outline: none;
+    border-bottom-color: #42ff1c;
+}
